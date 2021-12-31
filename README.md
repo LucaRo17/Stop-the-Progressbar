@@ -14,4 +14,6 @@ Download here: https://github.com/LucaRo17/Stop-the-Progressbar/releases/
 
 0.1.1.1 Hotfix = Fixed update URL
 
-0.2 = Fixed update URL again (If it does not work use link in app), redesigned the UI, added 2 setup programs in case of false positive, fixed icon not showing up in main window, fixed a bug where the game over dialogue would not show up after completing progressbar.
+0.2 = Removed the ability to update
+
+0.3 = Added update feature (If it does not work use link in app), redesigned the UI, added 2 setup programs in case of false positive, fixed icon not showing up in main window, fixed a bug where the game over dialogue would not show up after completing progressbar.
