@@ -20,3 +20,7 @@ Download here: https://github.com/LucaRo17/Stop-the-Progressbar/releases/
 
 0.3-Source = Added the source code. Find it on the main page. Sorry about not using git but will work on that!
 
+IMPORTANT WARNING FOR WINDOWS 8.1, 8 AND 7 USERS:
+Please install Microsoft Edge for links in this game to work correctly. Soon you will not need to open links in Edge.
+
+Download Edge here: https://www.microsoft.com/en-us/edge
