@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Stop The Progressbar
 
-You can use the [editor on GitHub](https://github.com/LucaRo17/Stop-the-Progressbar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+How I made it, why I made it and where you can see my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So I am quite interested in coding. So it was last year when I thought, Why not make a game? And so i did. But I didnt have something in mind. I wanted something simple. Something that children can use. And so Stop the Progressbar began. A simple game that only needed a few clicks and good timing to win.
 
-### Markdown
+The only problem? I didnt know C#! But after watching a few introductory video and geting Visual Studio i knew everything I needed to make this game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Day 1.
+The main bits. The form and the buttons. At least that was easy. A few clicks. Winforms C#, .NET 4.8 and Create.
 
-```markdown
-Syntax highlighted code block
+Day 2.
+The actual coding. The buttons were generated and coded to do things.
 
-# Header 1
-## Header 2
-### Header 3
+Day 3.
+Progressbar. Easy. Right in the middle of the page and set to stop at 100 and give a game over messgae.
 
-- Bulleted
-- List
+Day 4.
+Timer. To make the game lose. Now it's hard. I had a few problems with the progressbar stop function but I got it.
 
-1. Numbered
-2. List
+Day 5.
+It was finally ready. Posted on Github and it was done. Stop the Progressbar. It was amazing (at least to me!). So the further versions came with better things and refined bugs. 
 
-**Bold** and _Italic_ and `Code` text
+If you download my app I hope you enjoy it. To download select View on GitHub.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LucaRo17/Stop-the-Progressbar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
